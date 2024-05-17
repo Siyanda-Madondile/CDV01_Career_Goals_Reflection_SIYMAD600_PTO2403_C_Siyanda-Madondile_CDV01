@@ -42,9 +42,9 @@
 
 ### 2. **Interests and Values**:
 
--I am interested in how apps and websites work and function.
--Web Development.
--Working more on frontend
+- I am interested in how apps and websites work and function.
+- Web Development.
+- Working more on frontend
 
 ---
 
@@ -54,10 +54,10 @@
 
 - Industry roles researched:
 
--Front-end
--Back-end
--Web Development
--JS specialist
+- Front-end
+- Back-end
+- Web Development
+- JS specialist
 
 - Areas of interest:
   - Frontend
